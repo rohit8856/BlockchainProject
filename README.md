@@ -6,4 +6,4 @@ The Developers are :
 2) Rohit Singh : https://github.com/rohitya8856
 3) Akshata Bhute : https://github.com/akshatabhute6
 
-Docs/Untitled Diagram.jpg
+https://github.com/rohitya8856/BlockchainProject/blob/main/Docs/Untitled%20Diagram.jpg
