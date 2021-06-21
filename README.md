@@ -1,4 +1,4 @@
-# BlockchainProject
+# BlockchainProject : Covid Report Verification System using Blockchain
 
 The Developers are :
 
