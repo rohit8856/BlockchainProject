@@ -1,0 +1,25 @@
+{
+  "name": "covid-report-system",
+  "version": "1.0.0",
+  "description": "Verification System for fake report detection",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohitya8856/BlockchainProject.git"
+  },
+  "author": "Rohit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohitya8856/BlockchainProject/issues"
+  },
+  "homepage": "https://github.com/rohitya8856/BlockchainProject#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.1.0"
+  }
+}

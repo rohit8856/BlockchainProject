@@ -1,0 +1,6 @@
+[32m[INFO] you are using the latest version 0.4.0[0m
+[33m[WARN] You can only connect to remixd from one of the supported origins.[0m
+[33m[WARN] Any application that runs on your computer can potentially read from and write to all files in the directory.[0m
+[33m[WARN] Symbolic links are not forwarded to Remix IDE
+[0m
+[32m[INFO] Tue Jun 22 2021 16:00:27 GMT+0530 (India Standard Time) remixd is listening on 127.0.0.1:65520[0m
